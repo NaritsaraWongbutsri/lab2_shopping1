@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\android",
+    "\\android\\app",
+    "\\android\\app\\src",
+    "\\android\\app\\src\\main",
+    "\\android\\app\\src\\main\\kotlin",
+    "\\android\\app\\src\\main\\kotlin\\com",
+    "\\android\\app\\src\\main\\kotlin\\com\\example",
+    "\\android\\app\\src\\main\\kotlin\\com\\example\\lab2_shopping",
+    "\\android\\app\\src\\main\\res",
+    "\\android\\app\\src\\main\\res\\drawable",
+    "\\android\\app\\src\\main\\res\\drawable-v21",
+    "\\android\\app\\src\\main\\res\\mipmap-hdpi"
+  ],
+  "SelectedNode": "\\.metadata",
+  "PreviewInSolutionExplorer": false
+}
